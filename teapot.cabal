@@ -21,7 +21,7 @@ source-repository head
   type: git
   location: https://github.com/CNoctem/teapot
 
-executable simple-json-api-haskell-exe
+executable teapot-exe
   main-is: Main.hs
   other-modules:
       Paths_teapot
