@@ -36,6 +36,7 @@ executable teapot-exe
   build-depends:
       aeson
     , base >=4.7 && <5
+    , cmdargs
     , containers
     , http-types
     , mtl
